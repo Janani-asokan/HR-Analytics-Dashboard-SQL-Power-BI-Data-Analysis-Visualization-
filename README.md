@@ -13,6 +13,8 @@ The goal of this project is to analyze HR employee data, derive meaningful insig
 
 ## DashBoard
 
+<img width="1359" height="758" alt="image" src="https://github.com/user-attachments/assets/18633dde-91fe-463f-bfea-409c9b2ef588" />
+
 
 ---
 
